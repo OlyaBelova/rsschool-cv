@@ -66,7 +66,7 @@ I have been playing chess for about 10 years, in my opinion this skill can help 
 
 + According to English EPAM test my level is B1 (Intermediate/Upper-intermediate)
 
-![the level of English](//level.png)
+![the level of English](level.png)
 
 + Belarussian, Russian - native
 + Deutsch - basic
