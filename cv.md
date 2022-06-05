@@ -55,4 +55,23 @@ I have been playing chess for about 10 years, in my opinion this skill can help 
 ```
 *** 
 <font size = 4> **Education:** </font>
+<font size = 2> 
+
++ University: Brest State Technical University, economist-programmer
++ Cources: [RS school, JS/FE](https://app.rs.school/course/schedule?course=js-fe-preschool-2022q2) </font>
+***
+<font size = 4>**Languages:**</font>
+
+<font size = 2> 
+
++ According to English EPAM test my level is B1 (Intermediate/Upper-intermediate)
+
+![the level of English](//level.png)
+
++ Belarussian, Russian - native
++ Deutsch - basic
+</font>
+
+***
+
 
