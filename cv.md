@@ -13,4 +13,46 @@
  + **E-mail**: exorcistspuppet@gmail.com
  + **Telegram**: @jeonteen
  + **GitHub**: [OlyaBelova](https://github.com/OlyaBelova)</font>
+***
+<font size = 4> **About Myself:** </font>
+
+I'm 17 and I haven't started my career as Frontend Developer yet, so there is no expereince in my background. I'm passionate to trying something new in this sphere and I try to do my best. 
+
+I have been playing chess for about 10 years, in my opinion this skill can help me go through difficulties. 
+***
+<font size = 4> **Skills:** </font>
+<font size = 2> 
+
++ Git, GitHub
++ HTML5, CSS3
++ C++
++ VS Code, Xcode
++ Adobe Photoshop, Illustrator 
+  </font>
+***
+<font size = 4> **Code example:**</font>
+
+<font size = 2> 
+
+> This code is the part of my course project</font>
+
+
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Banner</title>
+</head>
+<body>
+    <a href="main.html"><img class="menu" src="images/arrow.png"align="left"></a>
+    <p style="border:3px black double; margin-left: 100px;"> Start finding</p>
+    <img class = "banner" src="images/banner.jpg" width="1100" height="1000">
+</body>
+</html>
+```
+*** 
+<font size = 4> **Education:** </font>
 
