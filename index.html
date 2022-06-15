@@ -1,21 +1,110 @@
-<!doctype html>
- 
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="utf-8">
- 
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
- 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
- 
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+  <meta charset="UTF-8">
+  <title>cv</title>
+  <link rel="stylesheet" href="./style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
- 
+
 <body>
-  <script src="js/scripts.js"></script>
+  <header class="header">
+    <div class="container header-container">
+      <nav class="nav">
+        <ul class="nav-list">          
+          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+          <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>          
+          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+          <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+        </ul>
+      </nav>
+      <div class="toggle">
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container main-container">
+      <section class="section section-profile" id="profile">
+        <img src="./assets/img/avatar.jpg" alt="" class="section-profile-logo">
+        <div class="section-profile-title">
+          <h1 class="section-title main-title">Olga Belova</h1>
+          <h3 class="section-subtitle">The student of BSTU</h3>
+        </div>        
+      </section>
+      <section class="section" id="contacts">
+        <h2 class="section-title">Contacts:</h2>
+        <ul class="section-list">
+          <li class="section-item contacts-item">
+            Brest, Belarus
+          </li>
+          <li class="section-item contacts-item">
+            Phone: +375 (29) 224-24-33 (life)
+          </li>
+          <li class="section-item contacts-item">
+            Email: <a href="mailto:exorcistspuppet@gmail.com" title="email">exorcistspuppet@gmail.com</a>
+          </li>
+          <li class="section-item contacts-item">
+            Github: <a href="[OlyaBelova](https://github.com/OlyaBelova)" title="github">OlyaBelova</a>
+          </li>
+          <li class="section-item contacts-item">
+            Telegram: <a href="https://t.me/jeonteen" title="github">@jeonteen</a>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="summary">
+        <h2 class="section-title">Summary</h2>
+        <p>
+          I'm 17 and I haven't started my career as Frontend Developer yet, so there is no expereince in my background. I'm passionate to trying something new in this sphere and I try to do my best. 
+
+          I have been playing chess for about 10 years, in my opinion this skill can help me go through difficulties. 
+        </p>
+      </section>
+      <section class="section" id="skills">
+        <h2 class="section-title">Skills</h2>
+        <ul class="section-list">
+          <li class="section-item">
+            HTML, CSS, JavaScript (basics), C++
+          </li>
+          <li class="section-item">
+            Git, GitHub
+          </li>
+          <li class="section-item">
+            VS Code, Xcode
+          </li>
+          <li class="section-item">
+            Adobe Photoshop, Illustrator, Figma
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="courses">
+        <h2 class="section-title">Courses</h2>
+        <ul class="section-list">
+          <li class="section-item">
+            RS school, JS/FE
+          </li>
+        </ul>
+      </section>
+      <section class="section section-education" id="education">
+        <h2 class="section-title">Education</h2>
+        <p> Brest State Technical University, economist-programmer</p>
+      </section>
+      <section class="section section-english" id="english">
+        <h2 class="section-title">English</h2>
+        <p>According to English EPAM test my level is B1 (Intermediate/Upper-intermediate)</p>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container footer-container">
+      <div>© 2022 <a href="https://github.com/OlyaBelova" class="github nav-link">OlyaBelova</a></div>
+      <a href="https://rs.school/js/" class="rss"></a>
+    </div>
+  </footer>
 </body>
+
 </html>
